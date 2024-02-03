@@ -1,0 +1,32 @@
+.five-day-container {
+  display: flex;
+  justify-content: space-between;
+  color:rgb(0, 0, 0)
+}
+
+.day-forecast {
+  width: 25%; 
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #020000;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.day-forecast h4 {
+  font-size: 1.0 rem;
+}
+
+.day-forecast p {
+  margin: 15px 0;
+}
+
+.button {
+  color: rgb(255, 255, 255);
+  position: center;
+  background-color:rgb(26, 11, 230);
+}
+
+.weather-container{
+  position:center;
+}
